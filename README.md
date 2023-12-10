@@ -9,6 +9,8 @@ This repository contains a comprehensive Exploratory Data Analysis (EDA) and vis
 
 The notebook "eda-on-hotel-reservation.ipynb" provides an in-depth analysis of various aspects of hotel reservations. The primary focus is on understanding the dynamics behind reservation cancellations and the factors that may influence these decisions.
 
+Kaggele Notebook: https://www.kaggle.com/code/kane6543/eda-on-hotel-reservation/notebook
+
 ## Key Findings
 
 Cancellation Trends: Analysis shows a significant number of reservations are cancelled, with a notable impact on hotel earnings. Understanding these trends can help in strategizing to reduce cancellations.
