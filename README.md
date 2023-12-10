@@ -11,6 +11,8 @@ The notebook "eda-on-hotel-reservation.ipynb" provides an in-depth analysis of v
 
 Kaggele Notebook: https://www.kaggle.com/code/kane6543/eda-on-hotel-reservation/notebook
 
+Dataset: https://www.kaggle.com/datasets/thedevastator/hotel-bookings-analysis/
+
 ## Key Findings
 
 Cancellation Trends: Analysis shows a significant number of reservations are cancelled, with a notable impact on hotel earnings. Understanding these trends can help in strategizing to reduce cancellations.
